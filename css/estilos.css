@@ -50,7 +50,7 @@
   border-style: none;
   color: white;
   font-size: 20px;
-  left: 75px;
+  left: 150px;
   position: relative;
 }
 
@@ -81,7 +81,7 @@ h3 {
 .imagen-main {
   background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
   background-size: cover;
-  height: 650px;
+  height: 1050px;
   width: auto;
 }
 
@@ -108,12 +108,12 @@ h3 {
   height: 20px;
 }
 .titulo-descuentos {
-  left: 1050px;
+  left: 1060px;
   position: relative;
   top: 40px;
 }
 .titulo2-foto {
-  font-size: 25px;
+  font-size: 40px;
 }
 .titulo-articulo {
   color: #3c2313;
